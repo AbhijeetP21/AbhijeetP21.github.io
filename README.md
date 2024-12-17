@@ -96,5 +96,8 @@ Contributions are welcome! To contribute:
 ## License
 Feel free to use, modify, and distribute this project.
 
----
+## Documentation
+
+For detailed technical documentation about the project, please refer to [Documentation](Documentation.md).
+
 For any questions or suggestions, feel free to contact me at [abhijeetsp21@gmail.com](mailto:abhijeetsp21@gmail.com).
